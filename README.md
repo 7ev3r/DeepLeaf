@@ -76,3 +76,11 @@ The source code for the application can be found [here](https://github.com/7ev3r
 ## Future Developments
 
 We are continuously working on improving "DeepLeaf" by refining the model's accuracy and integrating additional features. Your feedback and contributions are welcome.
+
+## References
+
+1. Wikipedia contributors. (2023, May 18). Convolutional neural network. In Wikipedia, The Free Encyclopedia. Retrieved from [https://en.wikipedia.org/wiki/Convolutional_neural_network](https://en.wikipedia.org/wiki/Convolutional_neural_network)
+
+2. Hasan, M.M., Chopin, J.P., Laga, H., Miklavcic, S.J. (2021). Detection and classification of leaf diseases using deep convolutional neural networks. Agronomy. 11(8):707. [https://doi.org/10.3390/agronomy11080707](https://doi.org/10.3390/agronomy11080707). Retrieved from [https://www.mdpi.com/2077-0472/11/8/707](https://www.mdpi.com/2077-0472/11/8/707)
+
+3. Picon, A., Alvarez-Gila, A., Seitz, M., Ortiz-Barredo, A., Echazarra, J., Johannes, A. (2022). Plant Disease Detection and Severity Estimation in Sugar Beet Leaves via Deep Learning. Frontiers in Plant Science. 13:829479. [https://doi.org/10.3389/fpls.2022.829479](https://doi.org/10.3389/fpls.2022.829479). Retrieved from [https://www.frontiersin.org/articles/10.3389/fpls.2022.829479/full](https://www.frontiersin.org/articles/10.3389/fpls.2022.829479/full)
