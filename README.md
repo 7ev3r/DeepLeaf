@@ -4,7 +4,7 @@
 
 "DeepLeaf" is a Streamlit-based web application that utilizes a pre-trained ResNet50 model for classifying plant leaf diseases. The application allows users to upload leaf images and returns classification predictions based on the model's learning.
 
-You can read more details about the research problem, dataset information, implementation details, results, and future work in the project's [here](https://github.com/7ev3r/Capstone/blob/eca51a6158faa40d9b5f8d87db5246471c3071b4/app.py). It serves as a comprehensive guide to the project and provides insights into the motivation, approach, and outcomes of the research.
+You can read more details about the research problem, dataset information, implementation details, results, and future work in the project's [here](https://github.com/7ev3r/Capstone/blob/7139847e4fbd97e173881cbdcf33c48af632ab4f/Capstone_05_2023.ipynb). It serves as a comprehensive guide to the project and provides insights into the motivation, approach, and outcomes of the research.
 
 The `app.py` file located in the repository is an important part of the project. It contains the code for a Streamlit-based web application "DeepLeaf" that uses our trained ResNet50 model to classify plant leaf diseases. Users can upload an image of a leaf, and the app will return the likely class (species and health condition) of the plant.
 
