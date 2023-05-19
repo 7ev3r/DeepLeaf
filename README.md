@@ -77,6 +77,10 @@ To use "DeepLeaf" on your local machine, follow these steps:
 
 The source code for the application can be found [here](https://github.com/7ev3r/Capstone/blob/eca51a6158faa40d9b5f8d87db5246471c3071b4/app.py).
 
+## App preview
+
+![Screenshot of Streamlit interface](Streamlit_screenshot2.png)
+
 ## Future Developments
 
 We are continuously working on improving "DeepLeaf" by refining the model's accuracy and integrating additional features. Your feedback and contributions are welcome.
